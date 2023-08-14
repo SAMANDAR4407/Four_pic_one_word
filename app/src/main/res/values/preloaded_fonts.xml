@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/amarante</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/diplomata</item>
+        <item>@font/dm_serif_display</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/stardos_stencil_bold</item>
+    </array>
+</resources>
